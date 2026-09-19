@@ -10,3 +10,9 @@
 ###Önemli Notlar:
 -Bu depoda kaynak kodlar bulunmamaktadır; yalnızca derlenmiş ve çalıştırılabilir APK dosyası paylaşılmıştır.
 -APK dosyasını Android cihazınıza indirip kurulum izinlerini onaylayarak doğrudan cihazınıza yükleyebilirsiniz.
+
+-Uygulamanın çalıştırılabilir APK dosyasını
+-Releases bölümünden indirebilirsiniz.
+
+-Not: Bu repository yalnızca derlenmiş APK içermektedir.
+-Kaynak kodu mevcut değildir.
